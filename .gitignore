@@ -1,0 +1,20 @@
+# MATLAB backup/auto-save files
+*.asv
+*.m~
+*.mex*
+
+# Simulink files
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+
+# User/project-specific files
+*.prj
+*.mat
+*.fig
+*.log
+*.tmp
+
+# Compiled code and cache
+codegen/
+slprj/
