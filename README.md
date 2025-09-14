@@ -17,4 +17,7 @@ This repo showcases my award-winning project at the University of Bath, where ou
 
 ---
 
+![Demo SSS](figures/demo_sss.png)
+
+
 ## 📂 Repository structure
