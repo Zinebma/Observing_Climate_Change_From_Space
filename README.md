@@ -49,8 +49,8 @@ Example: Demo Sea Surface Salinity (2010–2016)
 ---
 
 ## 📂 Repository Structure
-code/matlab/ # MATLAB scripts (mapmaker, demo runner, etc.)
+"""code/matlab/ # MATLAB scripts (mapmaker, demo runner, etc.)
 data/demo/ # Demo NetCDF input data
 figures/ # Output figures saved by scripts
 README.md # Project documentation
-.gitignore # Git ignore rules
+.gitignore # Git ignore rules"""
