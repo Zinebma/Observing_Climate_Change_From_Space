@@ -69,13 +69,15 @@ figures/
 
 README.md                # Project documentation
 .gitignore               # Git ignore rules
-📦 Data Handling
-The repository does not include raw NetCDF data to keep it lightweight.
+
+
+## 📦 Data Handling
+The repository does not include raw NetCDF data to keep it lightweight.  
 Instead, you can generate it locally by running:
 
-matlab
-Copy code
+```matlab
 generate_demo_nc('data/demo/demo_sss.nc')
+
 
 
 
