@@ -70,6 +70,7 @@ figures/
 README.md                # Project documentation
 .gitignore               # Git ignore rules
 
+---
 
 ## 📦 Data Handling
 The repository does not include raw NetCDF data to keep it lightweight.  
@@ -78,6 +79,20 @@ Instead, you can generate it locally by running:
 ```matlab
 generate_demo_nc('data/demo/demo_sss.nc')
 
+---
+
+## 🏆 Presentation
+
+This repo is based on our award-winning presentation: *Observing Climate Change From Space*.
+
+🎥 [Watch the full animated presentation (2-min MP4)](https://drive.google.com/file/d/12woXtuf94CfIXI6NcSijAuPjI3rIE-p-/view?usp=sharing)  
+📄 [Static PDF version of the slides](presentation/Observing_Climate_Change_From_Space.pdf) *(if available)*
+
+Below is a short animation highlight:
+
+![Sea Surface Salinity Animation](figures/sss_animation.gif)
+
+---
 
 
 
