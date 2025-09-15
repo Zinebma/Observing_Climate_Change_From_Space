@@ -68,7 +68,9 @@ figures/
 └── .gitkeep             # Placeholder
 
 README.md                # Project documentation
-.gitignore               # Git ignore rules```
+.gitignore               # Git ignore rules
+
+```
 
 
 
