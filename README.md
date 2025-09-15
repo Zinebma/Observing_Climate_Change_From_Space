@@ -88,11 +88,12 @@ generate_demo_nc('data/demo/demo_sss.nc')
 This repo is based on our award-winning presentation: *Observing Climate Change From Space*.
 
 🎥 [Watch the full animated presentation (2-min MP4)](https://drive.google.com/file/d/12woXtuf94CfIXI6NcSijAuPjI3rIE-p-/view?usp=sharing)  
-📄 [Download the static PDF version of the slides](presentation/Observing_Climate_Change_From_Space.pdf)  
+📄 [Static PDF version of the slides](presentation/Observing_Climate_Change_From_Space_Static.pdf)
 
 Below is a short animation highlight:
 
 ![Sea Surface Salinity Animation](figures/sss_animation.gif)
+
 
 ---
 
